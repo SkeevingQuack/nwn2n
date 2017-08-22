@@ -4,7 +4,7 @@
 
 We plan to have told Kelgar about the haunted mine.
 
-Pick up 100gp of diamond dust at some point this session.
+Pick up 100gp of diamond dust at some point this session. (2x)
 
 ### Resources
 

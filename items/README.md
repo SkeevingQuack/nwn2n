@@ -6,9 +6,10 @@
 
 #### Expendables
 
-* 13,457gp
+* 11,206gp
 * Healing potion (1d8+2)
 * Healing potion (2d4+1)
+* (2) pouch of diamond dust worth 100gp
 
 #### Combat gear
 
@@ -22,7 +23,6 @@
 * Amulet to Tyr
 * Necklace that creates light
 * Staff of the Adder
-* Staff of the Python
 * Anti-enchanter studded leather
 * Ash shield
 * Eternally Wet Shirt
