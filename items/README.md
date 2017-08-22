@@ -24,7 +24,7 @@
 * [Ash shield] 
 * [Eternally Wet Shirt]
 
-[Ring of Radiant Resistance]: http://google.com
+[Ring of Radiant Resistance]: "Ring of Radiant Resistance.md"
 [Amulet to Tyr]: ../README.md
 [Glittering necklace]: ./Glittering\ Necklace.md
 [Staff of the Adder]: ./Staff\ of\ the\ Adder.md
