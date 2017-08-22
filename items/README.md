@@ -15,7 +15,7 @@
 * Box elder shield
 * Box elder longbow
 * Arrows and quiver
-* [Ironwood breastplate]
+* Ironwood breastplate
 * [Ring of Radiant Resistance] 
 * [Amulet to Tyr]
 * [Glittering necklace]
@@ -23,6 +23,9 @@
 * [Anti-enchanter studded leather]
 * [Ash shield] 
 * [Eternally Wet Shirt]
+
+[Ring of Radiant Resistance]: http://google.com
+[Amulet to Tyr]: ../README.md
 
 ### Adventuring gear
 
