@@ -1,9 +1,15 @@
 # Neverwinter Nights 2 D&D 5e campaign notes
 
+------------------------------------
+
+This will probably be moved to its own file, possibly as html.
+
+My actual inventory is in the [README of /items,](./items/README.md) but items which require attunement or which aren't easily equipped are listed below the attacks table.
+
 ### Vess
 
 Human  
-Druid 8 (Circle of the Moon)
+Druid 8 *Circle of the Moon*
 
 Proficiency: +3  
 Inspiration?: :heavy_check_mark:
@@ -11,11 +17,14 @@ Inspiration?: :heavy_check_mark:
 Current hit points: 88  
 Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 88 (8(d8+3))
+Hit point maxiumum: 88 *8(d8+3)*
 
 Armor Class: 18  
 Initiative: +2  
 Speed: 30ft
+
+**Wild Shape:** 2/2  
+**Amulet to Tyr:** 1/1
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |-------|-------|-------|-------|-------|-------|
@@ -51,13 +60,24 @@ Speed: 30ft
 
 * Spells with a casting time of 1 action and with a single creature target can be used as an attack of opportunity
 
-#### Equipment
+#### Attuned items & armor
 
 * Anti-enchanter studded leather **attuned**
-* Ash shield 
 * Staff of the Adder **attuned**
 * Amulet to Tyr **attuned**
+* Ash shield 
 
+| Level | Slots | Prepared spells |
+|-------|-------|-----------------|
+| 0     | -     | *Guidance*, *Shillelagh*, *Thorn Whip* |
+| 1     | 4     | *Charm Person*, *Cure Wounds*, *Faerie Fire*, *Healing Word*, *Ice Knife*, *Speak with Animals* |
+| 2     | 4     | *Hold Person*   |
+| 3     | 3     | *Call Lightning*, *Conjure Animals*, *Create Food and Water*, *Sleet Storm* |
+| 4     | 2     | *Locate Creature*, *Polymorph* |
+
+**Wild Shape:** Any beast CR <= 2 for up to 4 hours, twice per day as a bonus action.
+
+------------------------------------
 
 ### Resources
 
