@@ -26,6 +26,11 @@
 
 [Ring of Radiant Resistance]: http://google.com
 [Amulet to Tyr]: ../README.md
+[Glittering necklace]: ./Glittering\ Necklace.md
+[Staff of the Adder]: ./Staff\ of\ the\ Adder.md
+[Anti-enchanter studded leather]: README.md
+[Ash shield]: ./Ash shield.md
+[Eternally Wet Shirt]: ../items/Eternally\ wet\ shirt.md
 
 ### Adventuring gear
 
@@ -62,12 +67,3 @@
 * Various letters held in a waterproof, wooden case
 * Parchment, quill, and ink
 * Writing desk/board
-
-
-[Ring of Radiant Resistance]: ./Ring\ of\ radiant\ resistance.md
-[Amulet to Tyr]: ./Amulet\ to\ Tyr.md
-[Glittering necklace]: ./Glittering\ Necklace.md
-[Staff of the Adder]: ./Staff\ of\ the\ Adder.md
-[Anti-enchanter studded leather]: README.md
-[Ash shield]: ./Ash shield.md
-[Eternally Wet Shirt]: ../items/Eternally\ wet\ shirt.md
