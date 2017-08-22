@@ -24,8 +24,6 @@
 * [Ash shield] 
 * [Eternally Wet Shirt]
 
-
-
 ### Adventuring gear
 
 * (2) 25-foot silk rope
@@ -60,8 +58,10 @@
 * Scroll of pedigree and signet ring
 * Various letters held in a waterproof, wooden case
 * Parchment, quill, and ink
-* Writing desk/board
+* [Writing desk/board]
 
+
+[Writing desk/board]: Writing%20desk.md
 [Ring of Radiant Resistance]: Ring%20of%20radiant%20resistance.md
 [Amulet to Tyr]: Amulet%20to%20Tyr.md
 [Glittering necklace]: Glittering%20necklace.md
