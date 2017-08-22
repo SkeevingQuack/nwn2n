@@ -65,6 +65,6 @@
 [Amulet to Tyr]: ./Amulet\ to\ Tyr.md
 [Glittering necklace]: ./Glittering\ Necklace.md
 [Staff of the Adder]: ./Staff\ of\ the\ Adder.md
-[Anti-enchanter studded leather]: ./Anti-enchanter\ studded\ leather
+[Anti-enchanter studded leather]: README.md
 [Ash shield]: ./Ash shield.md
-[Eternally Wet Shirt]: ./Eternally\ wet\ shirt.md
+[Eternally Wet Shirt]: ../items/Eternally\ wet\ shirt.md
