@@ -14,7 +14,7 @@
 * Box elder cane
 * Box elder shield
 * Box elder longbow
-* Arrows and quiver
+* Quiver and arrows (20)
 * Ironwood breastplate
 * [Ring of Radiant Resistance] 
 * [Amulet to Tyr]
