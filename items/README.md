@@ -24,13 +24,13 @@
 * [Ash shield] 
 * [Eternally Wet Shirt]
 
-[Ring of Radiant Resistance]: Ring%20of%20Radiant%20Resistance.md
-[Amulet to Tyr]: ../README.md
-[Glittering necklace]: ./Glittering\ Necklace.md
-[Staff of the Adder]: ./Staff\ of\ the\ Adder.md
-[Anti-enchanter studded leather]: README.md
-[Ash shield]: ./Ash shield.md
-[Eternally Wet Shirt]: ../items/Eternally\ wet\ shirt.md
+[Ring of Radiant Resistance]: Ring%20of%20radiant%20resistance.md
+[Amulet to Tyr]: Amulet%20to%20Tyr.md
+[Glittering necklace]: Glittering%20necklace.md
+[Staff of the Adder]: Staff%20of%20the%20Adder.md
+[Anti-enchanter studded leather]: Anti-enchanter%20studded%20leather.md
+[Ash shield]: Ash%20shield.md
+[Eternally Wet Shirt]: Eternally%20wet%20shirt.md
 
 ### Adventuring gear
 
