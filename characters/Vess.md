@@ -1,5 +1,7 @@
 # Vesna Tchurminska
 
+In Neverwinter, she wears a dour, pastel-blue robe draped with vines and with a symbol of Eldath hung around her neck. How she’ll dress in villages will depend on how people would react, so I’ll need to talk to you about it (as well as get info on my gear), but she probably has symbols to Chauntea and Selune that she only reveals at appropriate moments. She also has some knowledge of Mielikki and Silvanus, but doesn’t feel that carrying their symbols would be useful. In either case, she carries a slender, ornamental cane; it appears to be a smoothed branch of box elder wood heavily streaked with red.
+
 ## Backstory
 
 1372 (roughly) — Archdruid dies  
