@@ -119,8 +119,8 @@ if __name__ == "__main__":
                           '</tr>\n')
             for message in conversations[key]:
                 outfile.write('  <tr>\n' +
-                              '    <td>' + message.readable_date + '</td>\n' +
                               '    <td>Text</td>\n' +
+                              '    <td>' + message.readable_date + '</td>\n' +
                               '    <td>' + message.sender + '</td>\n' +
                               '    <td>' + message.body2html() + '</td>\n  </tr>\n')
             outfile.write('</table>\n')
