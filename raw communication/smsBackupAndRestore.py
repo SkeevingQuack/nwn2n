@@ -1,6 +1,7 @@
 #!/bin/python3
 import xml.etree.ElementTree as ET
 from sys import argv
+import re
 
 #TODO: sanitize smsBackup xml
 #TODO: sanitize messages
@@ -23,7 +24,7 @@ class Message:
     
     def __init__(self, date, body, contacts, readable, sender):
         self.date = int(date)
-        self.body = body
+        self.body = map(lambda x:x.replace('\r', ''), body)
         self.contacts = contacts
         self.readable_date = readable
         self.sender = sender
@@ -36,6 +37,14 @@ class Message:
     def __str__(self):
         output = "{} **{}** ".format(self.readable_date, self.sender)
         output += ', '.join(self.body)
+        return output
+
+    def body2html(self):
+        output = ""
+        for part in self.body:
+            part = '<p>' + part + '</p>'
+            part = re.sub(r'\n+', '</p><p>', part)
+            output += part
         return output
 
     def wanted_contacts(self):
@@ -104,10 +113,21 @@ if __name__ == "__main__":
         outfile.write("# Converted sms file\n\n")
         for key in conversations:
             outfile.write("## {}\n\n".format(key))
-            outfile.write('| Date | Sender | Message |\n')
-            outfile.write('|------|--------|---------|\n')
+
+            outfile.write('<table>\n  <tr>\n    <th>Date</th>\n    ' +
+                          '<th>Sender</th>\n    <th>Message</th>\n  ' +
+                          '</tr>\n')
             for message in conversations[key]:
-                outfile.write("| {} | {} | {} |\n".format(message.readable_date,
-                                                          message.sender,
-                                                          ', '.join(message.body)))
-            outfile.write('\n\n')
+                outfile.write('  <tr>\n' +
+                              '    <td>' + message.readable_date + '</td>\n' +
+                              '    <td>' + message.sender + '</td>\n' +
+                              '    <td>' + message.body2html() + '</td>\n  </tr>\n')
+                              
+            
+            # outfile.write('| Date | Sender | Message |\n')
+            # outfile.write('|------|--------|---------|\n')
+            # for message in conversations[key]:
+            #     outfile.write("| {} | {} | {} |\n".format(message.readable_date,
+            #                                               message.sender,
+            #                                               ', '.join(message.body)))
+            # outfile.write('\n\n')
