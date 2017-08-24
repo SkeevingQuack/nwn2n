@@ -1,10 +1,8 @@
 # Neverwinter Nights 2 D&D 5e campaign notes
 
-------------------------------------
-
 This will probably be moved to its own file, possibly as html.
 
-My actual inventory is in the [README of /items,](./items/README.md) but items which require attunement or which aren't easily equipped are listed below the attacks table.
+My actual inventory is in the [README of /items,](./items/) but items which require attunement or which aren't easily equipped are listed below the attacks table.
 
 ### Vess
 
@@ -82,5 +80,3 @@ Speed: 30ft
 ### Resources
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-

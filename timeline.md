@@ -2,9 +2,11 @@
 
 [Calendar of Harptos](http://forgottenrealms.wikia.com/wiki/Calendar_of_Harptos)
 
+[official calendar tool](http://archive.wizards.com/default.asp?x=dnd/frx/20050525x)
+
 ### Prehistory
 
-[Vess] was contacted by [Druid].
+[Vess] was contacted by [Elanee].
 
 ### Dead timeline
 
@@ -93,3 +95,5 @@ A part of the road is collapsed, we lure a troll into a larger orc army encampme
 ###### 19
 
 
+[Vess]: characters/Vess.md
+[Elanee]: characters/Elanee.md
