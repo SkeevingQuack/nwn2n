@@ -18,13 +18,35 @@ Useful resource: https://www.reddit.com/r/DnD/comments/5fz3k0/spreadsheet_all_ma
 
 # Spell preparation
 
+I feel like if I pre-organize some loadouts I might do a better job when preparing spells. 
+
 ### Cantrips
 
 * *Guidance*
 * *Shillelagh*
 * *Thorn Whip*
-* (Level 10) *Produce Flame*
 
 ### Constant
 
 * *Speak with Animals*
+* *Healing Word*
+
+### Adventuring
+
+* *Darkvision*
+* *Call Lightning*
+* *Create Food and Water*
+
+### Nonlethal
+
+* *Hold Person*
+* *Charm Person*
+* *Polymorph*
+* *Plant Growth*/*Entangle*
+
+### Big bad
+
+* *Elemental Bane*
+* *Absorb Elements*
+* *Earthbind*
+* *Moonbeam*
