@@ -17,7 +17,7 @@ Everything within 4 of eachother, and five of them were odd.
 
 **Mitch:** Haha very nice. You going druid?
 
-**Brad:**Yep, Human circle of the moon (mechanically)
+**Brad:** Yep, Human circle of the moon (mechanically)
 
 **Mitch:** Unless you're a particularly social druid this probably hasn't been a huge deal but most people wouldn't differentiate between your magic and arcane so you know to be careful with who knows of your abilities. @
 
@@ -232,7 +232,6 @@ I also just realized that Vess has been accruing names and I've completely faile
 Her family name is Tchurminov. Translated literally from Damaran it means "winterprison", and she occasionally refers to herself that way because she thinks the name is ridiculous. Her surname is Tchurminska because Damaran surnames have a feminine and masculine form, so all women of her family are named Tchurminska. The family makes a point to adhere to this tradition even in lands where it's unheard of, though Vess occasionally goes against it if she believes clarity is more important. Her given name is Vesna, but she tends to go by Vess, the nickname given to her by her brother Miro.
 
 ##### Neverwinter nobility discussion
-
 
 **Brad:** So I want Vess to have a friend in Neverwinter politics who is sympathetic to her goals, but they wouldn't sacrifice anything personally/politically in order to help her. I'm guessing the Neverwinter nobility is pretty important to this campaign, so I don't want to step on your toes and just make something up like with Silverymoon.
 

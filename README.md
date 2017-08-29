@@ -12,7 +12,7 @@ Druid 8 *Circle of the Moon*
 Proficiency: +3  
 Inspiration?: :heavy_check_mark:
 
-Current hit points: 88  
+Current hit points: 52  
 Temporary hit points: 0  
 Death saves: 0|0  
 Hit point maxiumum: 88 *8(d8+3)*
@@ -21,13 +21,13 @@ Armor Class: 18
 Initiative: +2  
 Speed: 30ft
 
-**Wild Shape:** 2/2  
+**Wild Shape:** 0/2  
 **Amulet to Tyr:** 1/1
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |-------|-------|-------|-------|-------|-------|
 | *13* **+1** | *15* **+2** | *16* **+3** | *13* **+1** | *20* **+5** | *13* **+1** |
-| :white_large_square: Save | :white_large_square: Save | :white_large_square: Save | :black_large_square: Save | :black_large_square: Save | :white_large_square: |
+| :white_large_square: Save | :white_large_square: Save | :white_large_square: Save | :black_large_square: Save | :black_large_square: Save | :white_large_square: Save |
 | :white_circle: Athletics | :white_circle: Acrobatics || :white_circle: Arcana | :white_circle: Animal Handling | :white_circle: Deception |
 || :white_circle: Sleight of Hand || :black_circle: History | :black_circle: Insight | :white_circle: Intimidation |
 || :white_circle: Stealth || :white_circle: Investigation | :white_circle: Medicine | :white_circle: Performance |
@@ -51,7 +51,7 @@ Speed: 30ft
 |-----------------------------|-----|-------------------------|-----------------|
 | Box elder cane              | +4  | 1d4+1(B)                | fragile         |
 | *shillelagh*                | +8  | 1d8+5(magical B)        | 1 minute        |
-| Adder staff                 | +4  | 1d6+1(B)                | versatile (1d8) |
+| [Adder staff]               | +4  | 1d6+1(B)                | versatile (1d8) |
 | Adder staff (animated)      | +4  | 1d6(P)(+3d6 poison)     | DC 15 Cons      |
 | Adder (animated shillelagh) | +8  | 1d8+5(magical P)(+3d6 poison)| DC 15 Cons |
 | Longbow (normal arrows)     | +5  | 1d8+2(P)                |                 |
@@ -80,3 +80,5 @@ Speed: 30ft
 ### Resources
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Adder staff]: items/Staff%20of%20the%20Adder.md
