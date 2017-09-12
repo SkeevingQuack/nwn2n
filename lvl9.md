@@ -7,15 +7,15 @@ My actual inventory is in the [README of /items,](./items/) but items which requ
 ### Vess
 
 Human  
-Druid 8 *Circle of the Moon*
+Druid 9 *Circle of the Moon*
 
-Proficiency: +3  
+Proficiency: +4  
 Inspiration?: :heavy_check_mark:
 
-Current hit points: 20  
+Current hit points: 99  
 Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 88 *8(d8+3)*
+Hit point maxiumum: 99 *9(d8+3)*
 
 Armor Class: 18  
 Initiative: +2  
@@ -49,12 +49,12 @@ Speed: 30ft
 
 | Name                        | Atk | Damage                  | Special         |
 |-----------------------------|-----|-------------------------|-----------------|
-| Box elder cane              | +4  | 1d4+1(B)                | fragile         |
-| *shillelagh*                | +8  | 1d8+5(magical B)        | 1 minute        |
-| [Adder staff]               | +4  | 1d6+1(B)                | versatile (1d8) |
-| Adder staff (animated)      | +4  | 1d6(P)(+3d6 poison)     | DC 15 Cons      |
-| Adder (animated shillelagh) | +8  | 1d8+5(magical P)(+3d6 poison)| DC 15 Cons |
-| Longbow (normal arrows)     | +5  | 1d8+2(P)                |                 |
+| Box elder cane              | +5  | 1d4+1(B)                | fragile         |
+| *shillelagh*                | +9  | 1d8+5(magical B)        | 1 minute        |
+| [Adder staff]               | +5  | 1d6+1(B)                | versatile (1d8) |
+| Adder staff (animated)      | +5  | 1d6(P)(+3d6 poison)     | DC 15 Cons      |
+| Adder (animated shillelagh) | +9  | 1d8+5(magical P)(+3d6 poison)| DC 15 Cons |
+| Longbow (normal arrows)     | +6  | 1d8+2(P)                |                 |
 
 * Spells with a casting time of 1 action and with a single creature target can be used as an attack of opportunity
 
@@ -67,15 +67,20 @@ Speed: 30ft
 
 #### Prepared Spells (usually out of date)
 
+Spell Save DC: 17
+Spell Attack bonus: +9
+Spells Prepared: 14
+
 | Level | Slots | Used | Prepared spells |
 |-------|-------|------|-----------------|
 | 0     | -     | -    | *Guidance*, *Shillelagh*, *Thorn Whip* |
-| 1     | 4     | 2    | *Cure Wounds*, *Faerie Fire*, *Healing Word*, *Ice Knife*, *Speak with Animals* |
-| 2     | 4     | 2    | *Darkvision*, *Flaming Sphere*, *Pass Without Trace* |
-| 3     | 3     | 0    | *Call Lightning*, *Conjure Animals*, *Sleet Storm* |
-| 4     | 2     | 1    | *Locate Creature*, *Polymorph* |
+| 1     | 4     | 0    | *Charm Person*, *Faerie Fire*, *Healing Word*, *Longstrider*, *Speak with Animals* |
+| 2     | 3     | 0    | *Darkvision*, *Pass Without Trace* |
+| 3     | 3     | 0    | *Call Lightning*, *Conjure Animals*, *Create Food and Water*, *Plant Growth* |
+| 4     | 3     | 0    | *Grasping Vine*, *Polymorph* |
+| 5     | 1     | 0    | *Wall of Stone* |
 
-**Wild Shape:** Any beast CR <= 2 for up to 4 hours, twice per day as a bonus action.
+**Wild Shape:** Any beast CR <= 3 for up to 4.5 hours, twice per day as a bonus action.
 
 ------------------------------------
 
