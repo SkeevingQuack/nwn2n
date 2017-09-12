@@ -216,3 +216,11 @@ Chanel explains the city is preparing to fight necromancers. She teleports us fo
 ###### 5
 
 Sand says that the food at the dead drop for Chandra and Duncan is always taken. They should be at the old hideout in the merchant district, a warehouse named Sand's Sanding Sandporium. The party heads over to check it out and finds githyanki inside.
+
+*Note: [More stuff](sessions/2017-08-28.md), but I want to get everything else down first before I forget.*
+
+###### 6
+
+We wake up to find that Dimirrodin has run off to be protected by the church of Lethander. He happened across a paladin on his way, and sent this paladin, Kail, to help us. 
+
+*Note: [More stuff](sessions/2017-09-11.md), but I should sleep soon.*

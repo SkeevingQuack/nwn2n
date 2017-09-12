@@ -22,7 +22,6 @@
 * [Staff of the Adder]
 * [Anti-enchanter studded leather]
 * [Ash shield] 
-* [Eternally Wet Shirt]
 
 ### Adventuring gear
 
@@ -45,6 +44,7 @@
 * Symbol of Chauntea
 * Symbol of Selune
 * Box elder ponytail cuff
+* Old electrum [moon]
 
 ### Toiletries
 
@@ -62,10 +62,10 @@
 
 
 [Writing desk/board]: Writing%20desk.md
+[moon]: http://forgottenrealms.wikia.com/wiki/Moon_(coin)
 [Ring of Radiant Resistance]: Ring%20of%20radiant%20resistance.md
 [Amulet to Tyr]: Amulet%20to%20Tyr.md
 [Glittering necklace]: Glittering%20necklace.md
 [Staff of the Adder]: Staff%20of%20the%20Adder.md
 [Anti-enchanter studded leather]: Anti-enchanter%20studded%20leather.md
 [Ash shield]: Ash%20shield.md
-[Eternally Wet Shirt]: Eternally%20wet%20shirt.md

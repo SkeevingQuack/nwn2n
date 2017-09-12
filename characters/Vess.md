@@ -15,7 +15,7 @@ In Neverwinter, she wears a dour, pastel-blue robe draped with vines and with a 
 
 #### Overview
 
-Born 1373DR in Silverymoon, Vesna Tchurminska was the fourth of five children in the Tchurminov family, a relatively new but influential noble family of Silverymoon. She was quiet as a child and prone to laziness. Her parents failed to motivate her with any tactic they’d used with the other children; she was content with doing nothing, seemed to have nothing she wanted, and won most arguments where her parents tried to convince her that it was her duty to do something. Anything they managed to convince her to do, however, she did steadily and effectively.
+Born in Silverymoon during the Feast of the Moon of 1373DR, Vesna Tchurminska was the fourth of five children in the Tchurminov family, a relatively new but influential noble family of Silverymoon. She was quiet as a child and prone to laziness. Her parents failed to motivate her with any tactic they’d used with the other children; she was content with doing nothing, seemed to have nothing she wanted, and won most arguments where her parents tried to convince her that it was her duty to do something. Anything they managed to convince her to do, however, she did steadily and effectively.
 
 When Voislav got a dog, Vess bonded so quickly and completely with it that he had trouble actually calling it his. Vess’s parents started to bribe her with pets, but she quickly learned to negotiate the terms well enough that doing this too often become costly. 
 
