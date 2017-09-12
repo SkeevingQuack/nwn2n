@@ -12,7 +12,7 @@ Druid 8 *Circle of the Moon*
 Proficiency: +3  
 Inspiration?: :heavy_check_mark:
 
-Current hit points: 52  
+Current hit points: 20  
 Temporary hit points: 0  
 Death saves: 0|0  
 Hit point maxiumum: 88 *8(d8+3)*
