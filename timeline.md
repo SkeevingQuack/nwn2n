@@ -13,15 +13,15 @@
 
 ### Dead timeline
 
-###### 20 Drawing Down, 1402
+###### 20 Nightal (The Drawing Down), 1402
 
 We left Highcliffe via ship.
 
-###### 4 Deepwinter, 1403
+###### 4 Hammer (Deepwinter), 1403
 
 The party and the ship (but not the crew) are pulled into the astral plane and attacked by gith.
 
-### Drawing Down, 1402
+### Nightal (Drawing Down), 1402
 
 ###### 20
 
@@ -49,7 +49,7 @@ Other people shopped
 
 Went to see the guards about Aldenon?
 
-### Deepwinter, 1403
+### Hammer (Deepwinter), 1403
 
 ###### 1
 
@@ -181,7 +181,7 @@ Peregrin arrives with [a letter] from Hector. Vess transcribes parts of it relev
 [Firebeard]: institutions/Firebeard%20clan.md
 [Sir Kallum]: characters/Sir%20Kallum.md
 
-### The Claw of Winter, 1403
+### Alturiak (The Claw of Winter), 1403
 
 ###### 1
 
@@ -224,3 +224,11 @@ Sand says that the food at the dead drop for Chandra and Duncan is always taken.
 We wake up to find that Dimirrodin has run off to be protected by the church of Lethander. He happened across a paladin on his way, and sent this paladin, Kail, to help us. 
 
 *Note: [More stuff](sessions/2017-09-11.md), but I should sleep soon.*
+
+*Note: [Even more stuff that day, holy shit](sessions/2017-09-18.md).*
+
+### Ches (The Claw of Sunsets)
+
+##### 6
+
+We came back

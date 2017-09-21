@@ -1,0 +1,3 @@
+## Bag of Holding
+
+"The mouth when pulled to it's widest dimension can create a space of up to 2 feet in diameter. I may regret this, but the space within will be limitless so long as it can be fit inside. No matter it's contents the bag is 15 pounds, about 4 feet long, and made of cloth. To recall and item takes an action; you simple speak the name of which item you wish out of the bag while thinking of the item mentally at the same time (if it's a mundane item like a sword you would say sword and think about which specific sword you wished). If you are silenced or do not wish to do that you can upend the bag and all the contents will spill forth."

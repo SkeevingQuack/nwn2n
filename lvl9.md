@@ -21,8 +21,7 @@ Armor Class: 18
 Initiative: +2  
 Speed: 30ft
 
-**Wild Shape:** 1/2  
-**Amulet to Tyr:** 1/1
+**Wild Shape:** 0/2  
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |-------|-------|-------|-------|-------|-------|
