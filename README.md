@@ -12,10 +12,10 @@ Druid 9 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: :heavy_check_mark:
 
-Current hit points: 99  
+Current hit points: 93  
 Temporary hit points: 0  
-Death saves: 0|0  
-Hit point maxiumum: 99 *9(d8+3)*
+Death saves: 0|0  -----------
+Hit point maxiumum: 99 *9(d8+3)*    
 
 Armor Class: 18  
 Initiative: +2  
