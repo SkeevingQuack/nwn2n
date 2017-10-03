@@ -2,4 +2,4 @@
 
 **Attunement:** Required
 
-Can be used to cast *Greater Restoration* once per day, but is now broken.
+Can be used to cast *Greater Restoration* once per day, but is now mangled and shattered.

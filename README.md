@@ -12,16 +12,16 @@ Druid 9 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: :heavy_check_mark:
 
-Current hit points: 93  
+Current hit points: 91  
 Temporary hit points: 0  
-Death saves: 0|0  -----------
+Death saves: 0|0  
 Hit point maxiumum: 99 *9(d8+3)*    
 
 Armor Class: 18  
 Initiative: +2  
 Speed: 30ft
 
-**Wild Shape:** 0/2  
+**Wild Shape:** 1/2  
 **Amulet of Tyr:** 0/0
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -62,7 +62,6 @@ Speed: 30ft
 
 * Anti-enchanter studded leather **attuned**
 * Staff of the Adder **attuned**
-* Amulet to Tyr **attuned**
 * Ash shield 
 
 #### Prepared Spells (usually out of date)

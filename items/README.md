@@ -1,14 +1,17 @@
 # Items
 
+Water weird's amulet: chain made of beads with an orange jasper, there's an icon of a closed eye with an arcane rune over the eye. 
+
 ## On Vess
 
 ### Expendables
 
-* 289gp
+* 1,259gp
 * Healing potion (1d8+2)
 * Healing potion (2d4+1)
 * (2) pouch of diamond dust worth 100gp
 * Rare oils and unguents worth 1000gp
+* Agate worth 1000gp
 
 ### Combat gear
 
@@ -35,6 +38,7 @@
 * A couple emergency rations
 * Copper pot
 * Herbalism kit
+* Scrying mirror
 
 ### Mundane Clothing/Accessories
 

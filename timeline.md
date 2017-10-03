@@ -232,3 +232,11 @@ We wake up to find that Dimirrodin has run off to be protected by the church of 
 ##### 6
 
 We came back
+
+##### 7
+
+We futz around in Neverwinter
+
+##### 8
+
+We teleport to start our assault.
