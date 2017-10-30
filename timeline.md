@@ -240,3 +240,15 @@ We futz around in Neverwinter
 ##### 8
 
 We teleport to start our assault.
+
+##### 10
+
+Ahliera showed up at our party.
+
+##### 11
+
+Leave for the crystal.
+
+##### 14
+
+Arrive at a blue blue pool (and crystal). 

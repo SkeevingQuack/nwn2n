@@ -1,14 +1,6 @@
 # Items
 
-Water weird's amulet: chain made of beads with an orange jasper, there's an icon of a closed eye with an arcane rune over the eye. 
- == 
-Parapet of nondection
-
 ## Bag of Holding
-
-### Tyta loot
-
-* Five multicolored bones (purple is skull)
 
 ## On Vess
 
@@ -26,6 +18,7 @@ Parapet of nondection
 * Box elder longbow
 * Quiver and arrows (20)
 * Ironwood breastplate
+* [Amulet of Proof against Detection and Location]
 * [Amulet to Tyr]
 * [Glittering necklace]
 * [Staff of the Adder]
@@ -74,7 +67,7 @@ Parapet of nondection
 ## Bag of Holding
 
 
-
+[Amulet of Proof against Detection and Location]: Amulet%20of%20Nondetection
 [Writing desk/board]: Writing%20desk.md
 [moon]: http://forgottenrealms.wikia.com/wiki/Moon_(coin)
 [Ring of Radiant Resistance]: Ring%20of%20radiant%20resistance.md

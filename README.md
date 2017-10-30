@@ -7,15 +7,15 @@ My actual inventory is in the [README of /items,](./items/) but items which requ
 ### Vess
 
 Human  
-Druid 9 *Circle of the Moon*
+Druid 10 *Circle of the Moon*
 
 Proficiency: +4  
 Inspiration?: :heavy_check_mark:
 
-Current hit points: 73  
+Current hit points: 110  
 Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 99 *9(d8+3)*    
+Hit point maxiumum: 110 *10(d8+3)*    
 
 Armor Class: 18  
 Initiative: +2  
@@ -62,6 +62,7 @@ Speed: 30ft
 
 * Anti-enchanter studded leather **attuned**
 * Staff of the Adder **attuned**
+* Amulet of Proof against Detection and Location **attuned**
 * Ash shield 
 
 #### Prepared Spells (usually out of date)
@@ -77,7 +78,7 @@ Spells Prepared: 14
 | 2     | 3     | 0    | *Darkvision*, *Pass Without Trace* |
 | 3     | 3     | 0    | *Call Lightning*, *Conjure Animals*, *Create Food and Water*, *Plant Growth* |
 | 4     | 3     | 0    | *Grasping Vine*, *Polymorph* |
-| 5     | 1     | 0    | *Wall of Stone* |
+| 5     | 2     | 0    | *Wall of Stone* |
 
 **Wild Shape:** Any beast CR <= 3 for up to 4.5 hours, twice per day as a bonus action.
 
