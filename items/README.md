@@ -6,7 +6,7 @@
 
 ### Expendables
 
-* 1,259gp
+* 3,784gp
 * (2) pouch of diamond dust worth 100gp
 * Rare oils and unguents worth 1000gp
 * Agate worth 1000gp
@@ -46,7 +46,6 @@
 * Neverwinter Watch cloak
 * Symbol of Eldath
 * Symbol of Chauntea
-* Symbol of Selune
 * Box elder ponytail cuff
 * Old electrum [moon]
 

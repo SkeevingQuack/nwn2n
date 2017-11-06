@@ -243,6 +243,8 @@ We teleport to start our assault.
 
 ##### 10
 
+**fortnight 1**
+
 Ahliera showed up at our party.
 
 ##### 11
@@ -252,3 +254,25 @@ Leave for the crystal.
 ##### 14
 
 Arrive at a blue blue pool (and crystal). 
+
+##### 15
+
+We meet Azazel and hear his plan to rob Anthem
+
+### Tarsakh (The Claw of Storms)
+
+##### 1
+
+**fortnight 2**
+
+Petitioners Reggie, Darred, and Ziffer. Balthazar's family (and our horses) arrive.  
+
+##### 21
+
+**fortnight 3**
+
+Galleon's phoenix hatches. 
+
+##### 23
+
+Scouts have noticed Lord Valiss and Lord Roe less than a day out from here.
