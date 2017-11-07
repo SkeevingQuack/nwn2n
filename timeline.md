@@ -276,3 +276,11 @@ Galleon's phoenix hatches.
 ##### 23
 
 Scouts have noticed Lord Valiss and Lord Roe less than a day out from here.
+
+##### 24
+
+We cede control to House Valiss. 
+
+##### 28
+
+We find a clearing with the remnants of a city in the Neverwinter Wood.

@@ -13,7 +13,7 @@ Proficiency: +4
 Inspiration?: :heavy_check_mark:
 
 Current hit points: 110  
-Temporary hit points: 0  
+Temporary hit points: 13  
 Death saves: 0|0  
 Hit point maxiumum: 110 *10(d8+3)*    
 
