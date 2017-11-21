@@ -12,8 +12,8 @@ Druid 10 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: :heavy_check_mark:
 
-Current hit points: 110  
-Temporary hit points: 13  
+Current hit points: 83  
+Temporary hit points: 0  
 Death saves: 0|0  
 Hit point maxiumum: 110 *10(d8+3)*    
 
@@ -75,10 +75,10 @@ Spells Prepared: 14
 |-------|-------|------|-----------------|
 | 0     | -     | -    | *Guidance*, *Shillelagh*, *Thorn Whip* |
 | 1     | 4     | 0    | *Charm Person*, *Faerie Fire*, *Healing Word*, *Longstrider*, *Speak with Animals* |
-| 2     | 3     | 0    | *Darkvision*, *Pass Without Trace* |
-| 3     | 3     | 0    | *Call Lightning*, *Conjure Animals*, *Create Food and Water*, *Plant Growth* |
-| 4     | 3     | 0    | *Grasping Vine*, *Polymorph* |
-| 5     | 2     | 0    | *Wall of Stone* |
+| 2     | 3     | 1    | *Darkvision*, *Pass Without Trace* |
+| 3     | 3     | 2    | *Call Lightning*, *Conjure Animals*, *Create Food and Water*, *Plant Growth* |
+| 4     | 3     | 1    | *Grasping Vine*, *Polymorph* |
+| 5     | 2     | 2    | *Wall of Stone* |
 
 **Wild Shape:** Any beast CR <= 3 for up to 4.5 hours, twice per day as a bonus action.
 
