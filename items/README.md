@@ -2,6 +2,10 @@
 
 ## Bag of Holding
 
+Three large textbooks from Tyta. 
+Iron written down by Balthazar.
+
+
 ## On Vess
 
 ### Expendables
@@ -18,12 +22,13 @@
 * Box elder longbow
 * Quiver and arrows (20)
 * Ironwood breastplate
-* [Amulet of Proof against Detection and Location]
+* [Amulet of Proof against Detection and Location] \(Tyta has it\)
 * [Amulet to Tyr]
 * [Glittering necklace]
 * [Staff of the Adder]
 * [Anti-enchanter studded leather]
 * [Ash shield] 
+* Boots\(& gloves?\) of Spider Climb
 
 ### Adventuring gear
 

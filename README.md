@@ -12,7 +12,7 @@ Druid 10 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: :heavy_check_mark:
 
-Current hit points: 83  
+Current hit points: 110  
 Temporary hit points: 0  
 Death saves: 0|0  
 Hit point maxiumum: 110 *10(d8+3)*    
@@ -21,12 +21,12 @@ Armor Class: 18
 Initiative: +2  
 Speed: 30ft
 
-**Wild Shape:** 2/2  
+**Wild Shape:** 0/2  
 **Amulet of Tyr:** 0/0
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |-------|-------|-------|-------|-------|-------|
-| *13* **+1** (9/-1) | *15* **+2** | *16* **+3** | *13* **+1** | *20* **+5** | *13* **+1** |
+| *13* **+1** | *15* **+2** | *16* **+3** | *13* **+1** | *20* **+5** | *13* **+1** |
 | :white_large_square: Save | :white_large_square: Save | :white_large_square: Save | :black_large_square: Save | :black_large_square: Save | :white_large_square: Save |
 | :white_circle: Athletics | :white_circle: Acrobatics || :white_circle: Arcana | :white_circle: Animal Handling | :white_circle: Deception |
 || :white_circle: Sleight of Hand || :black_circle: History | :black_circle: Insight | :white_circle: Intimidation |
@@ -62,7 +62,7 @@ Speed: 30ft
 
 * Anti-enchanter studded leather **attuned**
 * Staff of the Adder **attuned**
-* Amulet of Proof against Detection and Location **attuned**
+* Boots of Spider Climb **attuned**
 * Ash shield 
 
 #### Prepared Spells (usually out of date)
@@ -76,9 +76,9 @@ Spells Prepared: 14
 | 0     | -     | -    | *Guidance*, *Shillelagh*, *Thorn Whip* |
 | 1     | 4     | 0    | *Charm Person*, *Faerie Fire*, *Healing Word*, *Longstrider*, *Speak with Animals* |
 | 2     | 3     | 1    | *Darkvision*, *Pass Without Trace* |
-| 3     | 3     | 2    | *Call Lightning*, *Conjure Animals*, *Create Food and Water*, *Plant Growth* |
-| 4     | 3     | 1    | *Grasping Vine*, *Polymorph* |
-| 5     | 2     | 2    | *Wall of Stone* |
+| 3     | 3     | 0    | *Call Lightning*, *Conjure Animals*, *Create Food and Water*, *Plant Growth* |
+| 4     | 3     | 0    | *Grasping Vine*, *Polymorph* |
+| 5     | 2     | 0    | *Wall of Stone* |
 
 **Wild Shape:** Any beast CR <= 3 for up to 4.5 hours, twice per day as a bonus action.
 
