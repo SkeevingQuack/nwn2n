@@ -7,15 +7,15 @@ My actual inventory is in the [README of /items,](./items/) but items which requ
 ### Vess
 
 Human  
-Druid 10 *Circle of the Moon*
+Druid 11 *Circle of the Moon*
 
 Proficiency: +4  
-Inspiration?: :heavy_check_mark:
+Inspiration?: no
 
 Current hit points: 110  
 Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 110 *10(d8+3)*    
+Hit point maxiumum: 121 *10(d8+3)*    
 
 Armor Class: 18  
 Initiative: +2  
@@ -69,18 +69,19 @@ Speed: 30ft
 
 Spell Save DC: 17
 Spell Attack bonus: +9
-Spells Prepared: 14
+Spells Prepared: 16
 
 | Level | Slots | Used | Prepared spells |
 |-------|-------|------|-----------------|
-| 0     | -     | -    | *Guidance*, *Shillelagh*, *Thorn Whip* |
-| 1     | 4     | 0    | *Charm Person*, *Faerie Fire*, *Healing Word*, *Longstrider*, *Speak with Animals* |
-| 2     | 3     | 1    | *Darkvision*, *Pass Without Trace* |
-| 3     | 3     | 0    | *Call Lightning*, *Conjure Animals*, *Create Food and Water*, *Plant Growth* |
-| 4     | 3     | 0    | *Grasping Vine*, *Polymorph* |
+| 0     | -     | -    | *Thunderclap*, *Shillelagh*, *Thorn Whip*, *Produce Flame* | *Guidance*
+| 1     | 4     | 0    | *Absorb Elements*, *Faerie Fire*, *Speak with Animals*, *Ice Knife* |
+| 2     | 3     | 1    | *Darkvision*, *Earthbind*, *Healing Spirit* |
+| 3     | 3     | 0    | *Call Lightning*, *Conjure Animals* |
+| 4     | 3     | 0    | *Polymorph*, *Elemental Bane*, *Grasping Vine*, *Blight* |
 | 5     | 2     | 0    | *Wall of Stone* |
+| 6     | 1     | 0    | *Bones of the Earth*, *Sunbeam* |
 
-**Wild Shape:** Any beast CR <= 3 for up to 4.5 hours, twice per day as a bonus action.
+**Wild Shape:** Any beast CR <= 3 for up to 5.5 hours, twice per day as a bonus action.
 
 ------------------------------------
 
