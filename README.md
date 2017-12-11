@@ -12,10 +12,10 @@ Druid 11 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: no
 
-Current hit points: 110  
+Current hit points: 63  
 Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 121 *10(d8+3)*    
+Hit point maxiumum: 91-11 *10(d8+3)*    
 
 Armor Class: 18  
 Initiative: +2  
@@ -38,7 +38,7 @@ Speed: 30ft
 * Advantage on saves against enchantment effects
 * Advantage on concentration saves for taking damage
 
-
+a
 **Proficiencies:** Chess, Herbalism kit
 
 **Languages (speak, read, write, lip-read):** Common, Dwarvish, Elvish, Druidic, Damaran
@@ -47,14 +47,14 @@ Speed: 30ft
 
 #### Attacks
 
-| Name                        | Atk | Damage                  | Special         |
-|-----------------------------|-----|-------------------------|-----------------|
-| Box elder cane              | +5  | 1d4+1(B)                | fragile         |
-| *shillelagh*                | +9  | 1d8+5(magical B)        | 1 minute        |
-| [Adder staff]               | +5  | 1d6+1(B)                | versatile (1d8) |
-| Adder staff (animated)      | +5  | 1d6(P)(+3d6 poison)     | DC 15 Cons      |
-| Adder (animated shillelagh) | +9  | 1d8+5(magical P)(+3d6 poison)| DC 15 Cons |
-| Longbow (normal arrows)     | +6  | 1d8+2(P)                |                 |
+| Name                        | Atk| Damage                  | Special         |
+|-----------------------------|----|-------------------------|-----------------|
+| Box elder cane              | +5 | 1d4+1(B)                | fragile         |
+| *shillelagh*                | +9 | 1d8+5(magical B)        | 1 minute        |
+| [Adder staff]               | +5 | 1d6+1(B)                | versatile (1d8) |
+| Adder staff (animated)      | +5 | 1d6(P)(+3d6 poison)     | DC 15 Cons      |
+| Adder (animated shillelagh) | +9 | 1d8+5(magical P)(+3d6 poison)| DC 15 Cons |
+| Longbow (normal arrows)     | +6 | 1d8+2(P)                |                 |
 
 * Spells with a casting time of 1 action and with a single creature target can be used as an attack of opportunity
 
@@ -74,11 +74,11 @@ Spells Prepared: 16
 | Level | Slots | Used | Prepared spells |
 |-------|-------|------|-----------------|
 | 0     | -     | -    | *Thunderclap*, *Shillelagh*, *Thorn Whip*, *Produce Flame* | *Guidance*
-| 1     | 4     | 0    | *Absorb Elements*, *Faerie Fire*, *Speak with Animals*, *Ice Knife* |
+| 1     | 4     | 2    | *Absorb Elements*, *Faerie Fire*, *Speak with Animals*, *Ice Knife* |
 | 2     | 3     | 1    | *Darkvision*, *Earthbind*, *Healing Spirit* |
-| 3     | 3     | 0    | *Call Lightning*, *Conjure Animals* |
-| 4     | 3     | 0    | *Polymorph*, *Elemental Bane*, *Grasping Vine*, *Blight* |
-| 5     | 2     | 0    | *Wall of Stone* |
+| 3     | 3     | 1    | *Call Lightning*, *Conjure Animals* |
+| 4     | 3     | 0    | *Polymorph*, *Elemental Bane*, *Grasping Vine* |
+| 5     | 2     | 0    | *Wall of Stone*, *Wrath of Nature* |
 | 6     | 1     | 0    | *Bones of the Earth*, *Sunbeam* |
 
 **Wild Shape:** Any beast CR <= 3 for up to 5.5 hours, twice per day as a bonus action.

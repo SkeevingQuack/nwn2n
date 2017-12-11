@@ -5,6 +5,7 @@
 Three large textbooks from Tyta. 
 Iron written down by Balthazar.
 
+A bunch of the (original) conductor's tuning forks. One is cracked
 
 ## On Vess
 
