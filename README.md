@@ -12,7 +12,7 @@ Druid 11 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: no
 
-Current hit points: 63  
+Current hit points: 64  
 Temporary hit points: 0  
 Death saves: 0|0  
 Hit point maxiumum: 91-11 *10(d8+3)*    
@@ -21,7 +21,7 @@ Armor Class: 18
 Initiative: +2  
 Speed: 30ft
 
-**Wild Shape:** 0/2  
+**Wild Shape:** 2/2  
 **Amulet of Tyr:** 0/0
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -38,7 +38,6 @@ Speed: 30ft
 * Advantage on saves against enchantment effects
 * Advantage on concentration saves for taking damage
 
-a
 **Proficiencies:** Chess, Herbalism kit
 
 **Languages (speak, read, write, lip-read):** Common, Dwarvish, Elvish, Druidic, Damaran
@@ -74,12 +73,12 @@ Spells Prepared: 16
 | Level | Slots | Used | Prepared spells |
 |-------|-------|------|-----------------|
 | 0     | -     | -    | *Thunderclap*, *Shillelagh*, *Thorn Whip*, *Produce Flame* | *Guidance*
-| 1     | 4     | 2    | *Absorb Elements*, *Faerie Fire*, *Speak with Animals*, *Ice Knife* |
+| 1     | 4     | 3    | *Absorb Elements*, *Faerie Fire*, *Speak with Animals*, *Ice Knife* |
 | 2     | 3     | 1    | *Darkvision*, *Earthbind*, *Healing Spirit* |
 | 3     | 3     | 1    | *Call Lightning*, *Conjure Animals* |
-| 4     | 3     | 0    | *Polymorph*, *Elemental Bane*, *Grasping Vine* |
+| 4     | 3     | 1    | *Polymorph*, *Elemental Bane*, *Grasping Vine* |
 | 5     | 2     | 0    | *Wall of Stone*, *Wrath of Nature* |
-| 6     | 1     | 0    | *Bones of the Earth*, *Sunbeam* |
+| 6     | 1     | 1    | *Bones of the Earth*, *Sunbeam* |
 
 **Wild Shape:** Any beast CR <= 3 for up to 5.5 hours, twice per day as a bonus action.
 

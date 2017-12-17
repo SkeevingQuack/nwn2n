@@ -4,6 +4,7 @@ Useful resource: https://www.reddit.com/r/DnD/comments/5fz3k0/spreadsheet_all_ma
 
 | Level | Name                | Material                 | Consumed? |
 |-------|---------------------|-------------------------------|------|
+| 1     |*Snare*              | 25 feet of rope               | Yes  |
 | 4     |*Stoneskin*          | diamond dust worth 100gp      | Yes  |
 | 5     |*Awaken*             | agate worth 1000gp            | Yes  |
 | 5     |*Greater Restoration* | diamond dust worth 100gp     | Yes  |
@@ -15,6 +16,8 @@ Useful resource: https://www.reddit.com/r/DnD/comments/5fz3k0/spreadsheet_all_ma
 | 7     |*Plane Shift*        | Attuned fork worth 250gp      | No   |
 | 9     |*Shapechange*        | Jade circlet worth 1,500gp    | No   |
 | 9     |*True Resurrection*  | Diamonds worth 25,000gp       | Yes  |
+
+| 6     |*Druid Grove* | mistletoe w/gold sick under full mun | Yes  |
 
 # Spell preparation
 
