@@ -15,7 +15,7 @@ Inspiration?: no
 Current hit points: 64  
 Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 91-11 *10(d8+3)*    
+Hit point maxiumum: 55 *11(d8+3)*    
 
 Armor Class: 18  
 Initiative: +2  

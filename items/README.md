@@ -7,11 +7,14 @@ Iron written down by Balthazar.
 
 A bunch of the (original) conductor's tuning forks. One is cracked
 
+
+Set of throwing daggers that separate into three, return
+
 ## On Vess
 
 ### Expendables
 
-* 3,784gp
+* 7,384gp
 * (2) pouch of diamond dust worth 100gp
 * Rare oils and unguents worth 1000gp
 * Agate worth 1000gp
@@ -23,7 +26,7 @@ A bunch of the (original) conductor's tuning forks. One is cracked
 * Box elder longbow
 * Quiver and arrows (20)
 * Ironwood breastplate
-* [Amulet of Proof against Detection and Location] \(Tyta has it\)
+* [Amulet of Proof against Detection and Location]
 * [Amulet to Tyr]
 * [Glittering necklace]
 * [Staff of the Adder]
