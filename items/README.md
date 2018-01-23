@@ -2,22 +2,25 @@
 
 ## Bag of Holding
 
-Three large textbooks from Tyta. 
 Iron written down by Balthazar.
 
 A bunch of the (original) conductor's tuning forks. One is cracked
 
-
 Set of throwing daggers that separate into three, return
+
+Material plane tuning fork
+*Find the Path* divinatory tools
 
 ## On Vess
 
 ### Expendables
 
-* 7,384gp
+* 6,184gp
 * (2) pouch of diamond dust worth 100gp
 * Rare oils and unguents worth 1000gp
 * Agate worth 1000gp
+* Jewel bowl
+* Jewel bowl (at Highcliffe (castle?))
 
 ### Combat gear
 
@@ -47,6 +50,7 @@ Set of throwing daggers that separate into three, return
 * Copper pot
 * Herbalism kit
 * Scrying mirror
+* golden sickle
 
 ### Mundane Clothing/Accessories
 

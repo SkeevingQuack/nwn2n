@@ -12,16 +12,16 @@ Druid 11 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: no
 
-Current hit points: 64  
+Current hit points: 121  
 Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 55 *11(d8+3)*    
+Hit point maxiumum: 121 *11(d8+3)*    
 
 Armor Class: 18  
 Initiative: +2  
 Speed: 30ft
 
-**Wild Shape:** 2/2  
+**Wild Shape:** 0/2  
 **Amulet of Tyr:** 0/0
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -72,13 +72,20 @@ Spells Prepared: 16
 
 | Level | Slots | Used | Prepared spells |
 |-------|-------|------|-----------------|
-| 0     | -     | -    | *Thunderclap*, *Shillelagh*, *Thorn Whip*, *Produce Flame* | *Guidance*
-| 1     | 4     | 3    | *Absorb Elements*, *Faerie Fire*, *Speak with Animals*, *Ice Knife* |
-| 2     | 3     | 1    | *Darkvision*, *Earthbind*, *Healing Spirit* |
-| 3     | 3     | 1    | *Call Lightning*, *Conjure Animals* |
-| 4     | 3     | 1    | *Polymorph*, *Elemental Bane*, *Grasping Vine* |
-| 5     | 2     | 0    | *Wall of Stone*, *Wrath of Nature* |
-| 6     | 1     | 1    | *Bones of the Earth*, *Sunbeam* |
+| 0     | -     | -    | *Thunderclap*, *Shillelagh*, *Thorn Whip*, |
+|       |       |      | *Produce Flame* |
+| 1     | 4     | 0    | *Speak with Animals*, *Absorb Elements*,  |
+|       |       |      | *Faerie Fire*, *Healing Word* |
+| 2     | 3     | 0    | *Darkvision*, *Healing Spirit*, |
+|       |       |      |   |
+| 3     | 3     | 0    | *Call Lightning*, *Conjure Animals*, |
+|       |       |      | *Erupting Earth*  |
+| 4     | 3     | 0    | *Polymorph*, *Grasping Vine*, |
+|       |       |      |   |
+| 5     | 2     | 0    | *Wall of Stone*, *Maelstrom*, *Greater Restoration*,|
+|       |       |      | *Control Winds*  |
+| 6     | 1     | 0    | *Sunbeam*, *Wind Walk*, |
+|       |       |      |   |
 
 **Wild Shape:** Any beast CR <= 3 for up to 5.5 hours, twice per day as a bonus action.
 
