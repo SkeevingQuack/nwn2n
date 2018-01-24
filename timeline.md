@@ -285,36 +285,34 @@ We cede control to House Valiss.
 
 We find a clearing with the remnants of a city in the Neverwinter Wood.
 
+##### 30
+
+Arrive back at Crossroad Keep.
+
 ### Greengrass
 
-?
+Head out for Highcliffe. (attack in a tenday?)
 
 ### Mirtul (The Melting)
 
-?
-
-##### x-
-
-
-
-##### x-4
+##### 1
 
 Arrive in Highcliffe castle and meet Kanna again. Arrive in that mining town thing, save the kid, convince him to help, take a prisoner. Promise to let him ride a dragon.
 
-##### x-3
+##### 2
 
 Get back to Highcliffe castle with prisoner. Order a jewel-encrusted bowl (2 days).
 
-##### x-2
+##### 3
 
 Meet up with the others in our party, get in a fight about what Vess and Tyta did. Deliberate. Tell Kanna that we're going to stop messing with politics. Go to Neverwinter, meet with the King, get told by his son that he's acting weird. Head to Yahar'Guhl.
 
-##### x=present
+##### 5
 
 It's morning and we've arrived at Yahar'guhl.
 
 -------------------------
 
-##### x+7
+##### 10
 
 The day Valiss expects to attack.
