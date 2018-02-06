@@ -10,12 +10,12 @@ Human
 Druid 11 *Circle of the Moon*
 
 Proficiency: +4  
-Inspiration?: no
+Inspiration?: yes
 
 Current hit points: 121  
-Temporary hit points: 0  
+Temporary hit points: 4  
 Death saves: 0|0  
-Hit point maxiumum: 121 *11(d8+3)*    
+Hit point maxiumum: 121 *11(d8+3)*
 
 Armor Class: 18  
 Initiative: +2  
@@ -46,14 +46,14 @@ Speed: 30ft
 
 #### Attacks
 
-| Name                        | Atk| Damage                  | Special         |
-|-----------------------------|----|-------------------------|-----------------|
-| Box elder cane              | +5 | 1d4+1(B)                | fragile         |
-| *shillelagh*                | +9 | 1d8+5(magical B)        | 1 minute        |
-| [Adder staff]               | +5 | 1d6+1(B)                | versatile (1d8) |
-| Adder staff (animated)      | +5 | 1d6(P)(+3d6 poison)     | DC 15 Cons      |
-| Adder (animated shillelagh) | +9 | 1d8+5(magical P)(+3d6 poison)| DC 15 Cons |
-| Longbow (normal arrows)     | +6 | 1d8+2(P)                |                 |
+| Name                        | Atk| Damage                 | Special         |
+|-----------------------------|----|------------------------|-----------------|
+| Box elder cane              | +5 | 1d4+1(B)               | fragile         |
+| *shillelagh*                | +9 | 1d8+5(magical B)       | 1 minute        |
+| [Adder staff]               | +5 | 1d6+1(B)               | versatile (1d8) |
+| Adder staff (animated)      | +5 | 1d6(P)(+3d6 poison)    | DC 15 Cons      |
+| Adder (animated shillelagh) | +9 |1d8+5(magical P)(+3d6 poison)| DC 15 Cons |
+| Longbow (normal arrows)     | +6 | 1d8+2(P)               |                 |
 
 * Spells with a casting time of 1 action and with a single creature target can be used as an attack of opportunity
 
@@ -74,11 +74,11 @@ Spells Prepared: 16
 |-------|-------|------|-----------------|
 | 0     | -     | -    | *Thunderclap*, *Shillelagh*, *Thorn Whip*, |
 |       |       |      | *Produce Flame* |
-| 1     | 4     | 0    | *Speak with Animals*, *Absorb Elements*,  |
+| 1     | 4     | 2    | *Speak with Animals*, *Absorb Elements*,  |
 |       |       |      | *Faerie Fire*, *Healing Word* |
-| 2     | 3     | 0    | *Darkvision*, *Healing Spirit*, |
+| 2     | 3     | 1    | *Darkvision*, *Healing Spirit*, |
 |       |       |      |   |
-| 3     | 3     | 0    | *Call Lightning*, *Conjure Animals*, |
+| 3     | 3     | 1    | *Call Lightning*, *Conjure Animals*, |
 |       |       |      | *Erupting Earth*  |
 | 4     | 3     | 0    | *Polymorph*, *Grasping Vine*, |
 |       |       |      |   |

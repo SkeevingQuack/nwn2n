@@ -8,6 +8,8 @@ A bunch of the (original) conductor's tuning forks. One is cracked
 
 Set of throwing daggers that separate into three, return
 
+Head and wings of the construct
+
 Material plane tuning fork
 *Find the Path* divinatory tools
 
@@ -15,6 +17,7 @@ Material plane tuning fork
 
 ### Expendables
 
+* 2d4+2 healing potion
 * 6,184gp
 * (2) pouch of diamond dust worth 100gp
 * Rare oils and unguents worth 1000gp
