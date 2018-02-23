@@ -311,7 +311,13 @@ Meet up with the others in our party, get in a fight about what Vess and Tyta di
 
 It's morning and we've arrived at Yahar'guhl's dead zone.
 
+It should be noon but instead the sun is super cold and dim.
+
 -------------------------
+
+##### 9
+
+Shandra will be at source of Berun's River.
 
 ##### 10
 

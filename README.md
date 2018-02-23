@@ -7,15 +7,15 @@ My actual inventory is in the [README of /items,](./items/) but items which requ
 ### Vess
 
 Human  
-Druid 11 *Circle of the Moon*
+Druid 12 *Circle of the Moon*
 
 Proficiency: +4  
-Inspiration?: yes
+Inspiration?: no
 
-Current hit points: 121  
-Temporary hit points: 4  
+Current hit points: 79  
+Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 121 *11(d8+3)*
+Hit point maxiumum: 89 *(d8+3)+11((d8/2)+3)-10*
 
 Armor Class: 18  
 Initiative: +2  
@@ -26,8 +26,8 @@ Speed: 30ft
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |-------|-------|-------|-------|-------|-------|
-| *13* **+1** | *15* **+2** | *16* **+3** | *13* **+1** | *20* **+5** | *13* **+1** |
-| :white_large_square: Save | :white_large_square: Save | :white_large_square: Save | :black_large_square: Save | :black_large_square: Save | :white_large_square: Save |
+| *13* **+1** | *15* **+2** | *17* **+3** | *13* **+1** | *20* **+5** | *13* **+1** |
+| :white_large_square: Save | :white_large_square: Save | :black_large_square: Save | :black_large_square: Save | :black_large_square: Save | :white_large_square: Save |
 | :white_circle: Athletics | :white_circle: Acrobatics || :white_circle: Arcana | :white_circle: Animal Handling | :white_circle: Deception |
 || :white_circle: Sleight of Hand || :black_circle: History | :black_circle: Insight | :white_circle: Intimidation |
 || :white_circle: Stealth || :white_circle: Investigation | :white_circle: Medicine | :white_circle: Performance |
@@ -42,7 +42,7 @@ Speed: 30ft
 
 **Languages (speak, read, write, lip-read):** Common, Dwarvish, Elvish, Druidic, Damaran
 
-**Feats:** Observant, War Caster
+**Feats:** Observant, War Caster, Resilient (cons)
 
 #### Attacks
 
@@ -68,26 +68,26 @@ Speed: 30ft
 
 Spell Save DC: 17
 Spell Attack bonus: +9
-Spells Prepared: 16
+Spells Prepared: 17
 
 | Level | Slots | Used | Prepared spells |
 |-------|-------|------|-----------------|
 | 0     | -     | -    | *Thunderclap*, *Shillelagh*, *Thorn Whip*, |
 |       |       |      | *Produce Flame* |
-| 1     | 4     | 2    | *Speak with Animals*, *Absorb Elements*,  |
+| 1     | 4     | 0    | *Speak with Animals*, *Absorb Elements*,  |
 |       |       |      | *Faerie Fire*, *Healing Word* |
-| 2     | 3     | 1    | *Darkvision*, *Healing Spirit*, |
+| 2     | 3     | 2    | *Darkvision*, *Healing Spirit*, *Moonbeam*, |
 |       |       |      |   |
-| 3     | 3     | 1    | *Call Lightning*, *Conjure Animals*, |
-|       |       |      | *Erupting Earth*  |
-| 4     | 3     | 0    | *Polymorph*, *Grasping Vine*, |
+| 3     | 3     | 0    | *Conjure Animals*, *Erupting Earth* |
+|       |       |      |   |
+| 4     | 3     | 1    | *Polymorph*, *Grasping Vine*, |
 |       |       |      |   |
 | 5     | 2     | 0    | *Wall of Stone*, *Maelstrom*, *Greater Restoration*,|
 |       |       |      | *Control Winds*  |
-| 6     | 1     | 0    | *Sunbeam*, *Wind Walk*, |
+| 6     | 1     | 1    | *Sunbeam*, *Transport Via Plants* |
 |       |       |      |   |
 
-**Wild Shape:** Any beast CR <= 3 for up to 5.5 hours, twice per day as a bonus action.
+**Wild Shape:** Any beast CR <= 4 for up to 6 hours, twice per day as a bonus action.
 
 ------------------------------------
 

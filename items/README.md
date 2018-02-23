@@ -13,13 +13,19 @@ Head and wings of the construct
 Material plane tuning fork
 *Find the Path* divinatory tools
 
+Dummy that looks like Tyta, Galleon, and Kail
+
+Skinshifter book
+
+adamantine skeletons
+
 ## On Vess
 
 ### Expendables
 
 * 2d4+2 healing potion
 * 6,184gp
-* (2) pouch of diamond dust worth 100gp
+* (1!) pouch of diamond dust worth 100gp
 * Rare oils and unguents worth 1000gp
 * Agate worth 1000gp
 * Jewel bowl
