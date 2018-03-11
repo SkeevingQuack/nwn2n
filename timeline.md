@@ -313,6 +313,12 @@ It's morning and we've arrived at Yahar'guhl's dead zone.
 
 It should be noon but instead the sun is super cold and dim.
 
+We rest near the trees until evening, then head out to Crossroad Keep.
+
+##### 6
+
+We King the Prince
+
 -------------------------
 
 ##### 9

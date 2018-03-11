@@ -12,8 +12,8 @@ Druid 12 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: no
 
-Current hit points: 79  
-Temporary hit points: 0  
+Current hit points: 89  
+Temporary hit points: 15  
 Death saves: 0|0  
 Hit point maxiumum: 89 *(d8+3)+11((d8/2)+3)-10*
 
@@ -75,16 +75,16 @@ Spells Prepared: 17
 | 0     | -     | -    | *Thunderclap*, *Shillelagh*, *Thorn Whip*, |
 |       |       |      | *Produce Flame* |
 | 1     | 4     | 0    | *Speak with Animals*, *Absorb Elements*,  |
-|       |       |      | *Faerie Fire*, *Healing Word* |
-| 2     | 3     | 2    | *Darkvision*, *Healing Spirit*, *Moonbeam*, |
+|       |       |      |   |
+| 2     | 3     | 0    | *Darkvision*, *Healing Spirit*, |
 |       |       |      |   |
 | 3     | 3     | 0    | *Conjure Animals*, *Erupting Earth* |
 |       |       |      |   |
-| 4     | 3     | 1    | *Polymorph*, *Grasping Vine*, |
-|       |       |      |   |
+| 4     | 3     | 1    | *Polymorph*, *Grasping Vine*, *Locate Creature*, |
+|       |       |      | *Freedom of Movement*  |
 | 5     | 2     | 0    | *Wall of Stone*, *Maelstrom*, *Greater Restoration*,|
-|       |       |      | *Control Winds*  |
-| 6     | 1     | 1    | *Sunbeam*, *Transport Via Plants* |
+|       |       |      | *Wrath of Nature*, *Scrying*  |
+| 6     | 1     | 0    | *Sunbeam*, *Transport Via Plants* |
 |       |       |      |   |
 
 **Wild Shape:** Any beast CR <= 4 for up to 6 hours, twice per day as a bonus action.

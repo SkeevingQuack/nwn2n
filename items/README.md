@@ -8,7 +8,7 @@ A bunch of the (original) conductor's tuning forks. One is cracked
 
 Set of throwing daggers that separate into three, return
 
-Head and wings of the construct
+Head and wings of the construct (onyx)
 
 Material plane tuning fork
 *Find the Path* divinatory tools
@@ -17,15 +17,15 @@ Dummy that looks like Tyta, Galleon, and Kail
 
 Skinshifter book
 
-adamantine skeletons
+Robe of Eyes
 
 ## On Vess
 
 ### Expendables
 
 * 2d4+2 healing potion
-* 6,184gp
-* (1!) pouch of diamond dust worth 100gp
+* 11,684gp
+* (5) pouches of diamond dust worth 100gp
 * Rare oils and unguents worth 1000gp
 * Agate worth 1000gp
 * Jewel bowl
