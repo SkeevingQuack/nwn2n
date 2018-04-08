@@ -6,7 +6,7 @@ Iron written down by Balthazar.
 
 A bunch of the (original) conductor's tuning forks. One is cracked
 
-Set of throwing daggers that separate into three, return
+throwing dagger that separate into three, return
 
 Head and wings of the construct (onyx)
 
@@ -17,18 +17,22 @@ Dummy that looks like Tyta, Galleon, and Kail
 
 Skinshifter book
 
-Robe of Eyes
+Aman Jerrow books
+
+Scrolls: Summon Lesser Demon, Summon Greater Demon
+
+Dragon bones, scales, heart (Jake also tracking)
 
 ## On Vess
 
 ### Expendables
 
 * 2d4+2 healing potion
-* 11,684gp
+* 31,014gp
 * (5) pouches of diamond dust worth 100gp
 * Rare oils and unguents worth 1000gp
 * Agate worth 1000gp
-* Jewel bowl
+* 2 Jewel bowls
 * Jewel bowl (at Highcliffe (castle?))
 
 ### Combat gear
@@ -37,6 +41,7 @@ Robe of Eyes
 * Box elder shield
 * Box elder longbow
 * Quiver and arrows (20)
+* Robe of Eyes
 * Ironwood breastplate
 * [Amulet of Proof against Detection and Location]
 * [Amulet to Tyr]

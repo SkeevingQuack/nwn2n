@@ -12,16 +12,16 @@ Druid 12 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: no
 
-Current hit points: 89  
-Temporary hit points: 15  
+Current hit points: 103 
+Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 89 *(d8+3)+11((d8/2)+3)-10*
+Hit point maxiumum: 89+14 *(d8+3)+11((d8/2)+3)-10*
 
-Armor Class: 18  
+Armor Class: 15  
 Initiative: +2  
 Speed: 30ft
 
-**Wild Shape:** 0/2  
+**Wild Shape:** 2/2  
 **Amulet of Tyr:** 0/0
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -35,8 +35,10 @@ Speed: 30ft
 |||| :white_circle: Religion | :black_circle: Survival ||
 
 * +5 to passive *Perception* and *Investigation*
-* Advantage on saves against enchantment effects
 * Advantage on concentration saves for taking damage
+
+* Advantage on sight checks (+5 to passive)
+* 120ft darkvision, invisibility, ethereal plane
 
 **Proficiencies:** Chess, Herbalism kit
 
@@ -59,8 +61,8 @@ Speed: 30ft
 
 #### Attuned items & armor
 
-* Anti-enchanter studded leather **attuned**
-* Staff of the Adder **attuned**
+* Robe of Eyes **attuned**
+* Amulet of Proof... **attuned**
 * Boots of Spider Climb **attuned**
 * Ash shield 
 
@@ -74,18 +76,18 @@ Spells Prepared: 17
 |-------|-------|------|-----------------|
 | 0     | -     | -    | *Thunderclap*, *Shillelagh*, *Thorn Whip*, |
 |       |       |      | *Produce Flame* |
-| 1     | 4     | 0    | *Speak with Animals*, *Absorb Elements*,  |
-|       |       |      |   |
-| 2     | 3     | 0    | *Darkvision*, *Healing Spirit*, |
-|       |       |      |   |
-| 3     | 3     | 0    | *Conjure Animals*, *Erupting Earth* |
-|       |       |      |   |
-| 4     | 3     | 1    | *Polymorph*, *Grasping Vine*, *Locate Creature*, |
-|       |       |      | *Freedom of Movement*  |
-| 5     | 2     | 0    | *Wall of Stone*, *Maelstrom*, *Greater Restoration*,|
-|       |       |      | *Wrath of Nature*, *Scrying*  |
+| 1     | 4     | 0    | *Speak with Animals*, *Absorb Elements*, |
+|       |       |      | *Faerie Fire* |
+| 2     | 3     | 0    | *Healing Spirit*, *Moon Beam* |
+|       |       |      | |
+| 3     | 3     | 1    | *Conjure Animals*, *Erupting Earth* |
+|       |       |      | |
+| 4     | 3     | 2    | *Polymorph*, *Grasping Vine*, *Locate Creature*, |
+|       |       |      | *Freedom of Movement*, *Blight* |
+| 5     | 2     | 0    | *Wall of Stone*, *Maelstrom*, *Greater Restoration* |
+|       |       |      | |
 | 6     | 1     | 0    | *Sunbeam*, *Transport Via Plants* |
-|       |       |      |   |
+|       |       |      | |
 
 **Wild Shape:** Any beast CR <= 4 for up to 6 hours, twice per day as a bonus action.
 

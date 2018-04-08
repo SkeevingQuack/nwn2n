@@ -317,14 +317,16 @@ We rest near the trees until evening, then head out to Crossroad Keep.
 
 ##### 6
 
-We King the Prince
+We king the Prince
 
--------------------------
+##### 7
+
+Morning, head to Neverwinter and then plant transport towards tower.
+
+##### 8
+
+Get most of the way, then fight some invisible dudes.
 
 ##### 9
 
-Shandra will be at source of Berun's River.
-
-##### 10
-
-The day Valiss expects to attack.
+Shandra will be at source of Berun's River, and is.
