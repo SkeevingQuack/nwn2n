@@ -12,7 +12,7 @@ Druid 12 *Circle of the Moon*
 Proficiency: +4  
 Inspiration?: no
 
-Current hit points: 103 
+Current hit points: 53 
 Temporary hit points: 0  
 Death saves: 0|0  
 Hit point maxiumum: 89+14 *(d8+3)+11((d8/2)+3)-10*
@@ -21,7 +21,7 @@ Armor Class: 15
 Initiative: +2  
 Speed: 30ft
 
-**Wild Shape:** 2/2  
+**Wild Shape:** 0/2  
 **Amulet of Tyr:** 0/0
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -68,9 +68,9 @@ Speed: 30ft
 
 #### Prepared Spells (usually out of date)
 
-Spell Save DC: 17
-Spell Attack bonus: +9
-Spells Prepared: 17
+Spell Save DC: 18
+Spell Attack bonus: +10
+Spells Prepared: 18
 
 | Level | Slots | Used | Prepared spells |
 |-------|-------|------|-----------------|
@@ -80,13 +80,15 @@ Spells Prepared: 17
 |       |       |      | *Faerie Fire* |
 | 2     | 3     | 0    | *Healing Spirit*, *Moon Beam* |
 |       |       |      | |
-| 3     | 3     | 1    | *Conjure Animals*, *Erupting Earth* |
+| 3     | 3     | 0    | *Conjure Animals*, *Erupting Earth* |
 |       |       |      | |
-| 4     | 3     | 2    | *Polymorph*, *Grasping Vine*, *Locate Creature*, |
+| 4     | 3     | 0    | *Polymorph*, *Grasping Vine*, *Locate Creature*, |
 |       |       |      | *Freedom of Movement*, *Blight* |
 | 5     | 2     | 0    | *Wall of Stone*, *Maelstrom*, *Greater Restoration* |
 |       |       |      | |
 | 6     | 1     | 0    | *Sunbeam*, *Transport Via Plants* |
+|       |       |      | |
+| 7     | 1     | 1    | |
 |       |       |      | |
 
 **Wild Shape:** Any beast CR <= 4 for up to 6 hours, twice per day as a bonus action.

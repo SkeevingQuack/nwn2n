@@ -330,3 +330,11 @@ Get most of the way, then fight some invisible dudes.
 ##### 9
 
 Shandra will be at source of Berun's River, and is.
+
+##### 10
+
+Rested and Balthazar did some stuff in Neverwinter.
+
+##### 11
+
+
