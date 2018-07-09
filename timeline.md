@@ -337,4 +337,8 @@ Rested and Balthazar did some stuff in Neverwinter.
 
 ##### 11
 
+Chandra date, we plan to murder the helpless. 
 
+##### 12 
+
+Bring back Sand. Go to Skymirror

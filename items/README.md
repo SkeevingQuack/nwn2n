@@ -5,6 +5,8 @@
 Iron written down by Balthazar.
 
 A bunch of the (original) conductor's tuning forks. One is cracked
+* Shadowfell
+* Our plane
 
 throwing dagger that separate into three, return
 
@@ -21,18 +23,26 @@ Aman Jerrow books
 
 Scrolls: Summon Lesser Demon, Summon Greater Demon
 
-Dragon bones, scales, heart (Jake also tracking)
+Dragon bones (less a femur), scales, heart (Jake also tracking)
 
-## On Vess
+Super evil axe or something. It steals souls.
+
+Delvar's armor (also the rest of him)
+
+Staff of the Woodlands (ceremonial importance to Circle of Swords)
+
+A bunch of ironwood furniture and a door.
+
+## On Vessa
 
 ### Expendables
 
 * 2d4+2 healing potion
-* 31,014gp
+* 40,014gp
 * (5) pouches of diamond dust worth 100gp
-* Rare oils and unguents worth 1000gp
+* (3) Rare oils and unguents worth 1000gp
 * Agate worth 1000gp
-* 2 Jewel bowls
+* 1 Jewel bowls
 * Jewel bowl (at Highcliffe (castle?))
 
 ### Combat gear
