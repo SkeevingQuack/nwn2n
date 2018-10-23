@@ -12,10 +12,10 @@ Druid 13 *Circle of the Moon*
 Proficiency: +5  
 Inspiration?: no
 
-Current hit points: 85 
+Current hit points: 72
 Temporary hit points: 0  
 Death saves: 0|0  
-Hit point maxiumum: 89+15 *(d8+3)+11((d8/2)+3)-10*
+Hit point maxiumum: 105 *(d8+3)+13((d8/2)+3)-10*
 
 Armor Class: 15  
 Initiative: +2  
